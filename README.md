@@ -22,6 +22,8 @@
      [✅] git remote add origin <repo> 
      [✅] git push -u origin  master
 
+## Mais sobre GIT LOG:
+
 ---
 
 
