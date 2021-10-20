@@ -28,6 +28,7 @@ Como verificar o histórico de commits, através do git log e algumas de suas op
 - git log --oneline
 - git log -p
 - git log --pretty="parametros de formatação"
+- git log --graph
 
 ---
 
