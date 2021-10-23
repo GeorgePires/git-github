@@ -22,14 +22,17 @@
      [✅] git remote add origin <repo> 
      [✅] git push -u origin  master
 
-## Mais sobre GIT LOG:
+## Mais sobre git log:
+```bash
+# Como verificar o histórico de commits, através do git log e algumas de suas opções:
 
-Como verificar o histórico de commits, através do git log e algumas de suas opções:
 - git log --oneline
 - git log -p
 - git log --pretty="parametros de formatação"
 - git log --graph
 
+
+```
 ---
 
 
