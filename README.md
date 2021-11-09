@@ -13,13 +13,13 @@
      [✅] Consolidado (committed)
     
 
-## Comandos
-     [✅] Git init
+## Comandos Basicos 
+     [✅] git init
      [✅] git status
-     [✅] git add <arquivo>
-     [✅] git commit -m "Comentario"
+     [✅] git add . | ou <nome do arquivo>
+     [✅] git commit -m "[CARD] Comentario"
      [✅] git log 
-     [✅] git remote add origin <repo> 
+     [✅] git remote add origin <link do repositorio> 
      [✅] git push -u origin  master
 
 ## Mais sobre git log:
